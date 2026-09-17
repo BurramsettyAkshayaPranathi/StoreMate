@@ -187,3 +187,18 @@ body {
         font-size: 17px;
     }
 }
+.ai-dashboard {
+    text-align: center;
+    padding: 60px 20px;
+    background-color: white;
+}
+
+.ai-dashboard h1 {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+
+.ai-dashboard p {
+    color: #666;
+    font-size: 18px;
+}
